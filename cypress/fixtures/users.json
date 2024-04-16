@@ -1,0 +1,8 @@
+{
+  "user_default": {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "company": "Example Company",
+    "project": "Test Project"
+  }
+}
