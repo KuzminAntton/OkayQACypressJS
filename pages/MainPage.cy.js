@@ -20,8 +20,7 @@ class MainPage {
 
         this.quickChoiceSentence = './/*[contains(text(), "Quick choice - quick win")]'
         this.longTermSentence = './/*[contains(text(), "Careful selection - partnership collaboration")]'
-            // **Full cycle Quality Assurance. From a set-up to automation and continuous integration & delivery** to have text
-            // **Full cycle Quality Assurance. From a set-up to automation and continuous integration & delivery**
+
     }
 
     isHomePageVisible() {
